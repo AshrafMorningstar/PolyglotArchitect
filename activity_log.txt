@@ -1,2 +1,3 @@
 Update on 2024-01-16: Bug fix in validator
 Update on 2024-01-27: Updated language quotas
+Update on 2024-02-07: Updated dependencies
