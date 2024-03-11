@@ -4,3 +4,4 @@ Update on 2024-02-07: Updated dependencies
 Update on 2024-02-15: Fixed typos in README
 Update on 2024-02-23: Bug fix in validator
 Update on 2024-03-05: Added new unit tests
+Update on 2024-03-12: Refactored generator logic
