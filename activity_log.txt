@@ -7,3 +7,4 @@ Update on 2024-03-05: Added new unit tests
 Update on 2024-03-12: Refactored generator logic
 Update on 2024-03-24: Updated dependencies
 Update on 2024-03-30: Refactored generator logic
+Update on 2024-04-07: Updated language quotas
