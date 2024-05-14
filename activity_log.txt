@@ -11,3 +11,4 @@ Update on 2024-04-07: Updated language quotas
 Update on 2024-04-16: Added new unit tests
 Update on 2024-04-25: Bug fix in validator
 Update on 2024-05-09: Documentation update
+Update on 2024-05-15: Performance improvements
