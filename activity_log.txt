@@ -14,3 +14,4 @@ Update on 2024-05-09: Documentation update
 Update on 2024-05-15: Performance improvements
 Update on 2024-05-24: Documentation update
 Update on 2024-06-04: Added support for Rust
+Update on 2024-06-12: Cleaned up code
