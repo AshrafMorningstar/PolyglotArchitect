@@ -20,3 +20,4 @@ Update on 2024-06-29: Added new unit tests
 Update on 2024-07-10: Bug fix in validator
 Update on 2024-07-21: Fixed typos in README
 Update on 2024-07-28: Documentation update
+Update on 2024-08-08: Bug fix in validator
