@@ -25,3 +25,4 @@ Update on 2024-08-15: Fixed typos in README
 Update on 2024-08-23: Performance improvements
 Update on 2024-09-04: Bug fix in validator
 Update on 2024-09-11: Documentation update
+Update on 2024-09-22: Updated dependencies
