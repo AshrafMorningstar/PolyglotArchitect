@@ -27,3 +27,4 @@ Update on 2024-09-04: Bug fix in validator
 Update on 2024-09-11: Documentation update
 Update on 2024-09-22: Updated dependencies
 Update on 2024-09-30: Optimized file creation
+Update on 2024-10-07: Cleaned up code
