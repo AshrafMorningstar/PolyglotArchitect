@@ -34,3 +34,4 @@ Update on 2024-11-08: Refactored generator logic
 Update on 2024-11-16: Updated dependencies
 Update on 2024-11-26: Added support for Rust
 Update on 2024-12-04: Added support for Rust
+Update on 2024-12-11: Enhanced dashboard UI
