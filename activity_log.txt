@@ -35,3 +35,4 @@ Update on 2024-11-16: Updated dependencies
 Update on 2024-11-26: Added support for Rust
 Update on 2024-12-04: Added support for Rust
 Update on 2024-12-11: Enhanced dashboard UI
+Update on 2024-12-23: Added new unit tests
