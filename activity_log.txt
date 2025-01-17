@@ -38,3 +38,4 @@ Update on 2024-12-11: Enhanced dashboard UI
 Update on 2024-12-23: Added new unit tests
 Update on 2025-01-02: Refactored generator logic
 Update on 2025-01-09: Added support for Rust
+Update on 2025-01-18: Updated language quotas
