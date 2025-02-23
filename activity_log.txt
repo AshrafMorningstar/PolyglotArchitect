@@ -42,3 +42,4 @@ Update on 2025-01-18: Updated language quotas
 Update on 2025-01-30: Added new unit tests
 Update on 2025-02-07: Optimized file creation
 Update on 2025-02-14: Refactored generator logic
+Update on 2025-02-24: Updated language quotas
