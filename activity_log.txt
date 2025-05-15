@@ -51,3 +51,4 @@ Update on 2025-04-12: Bug fix in validator
 Update on 2025-04-22: Cleaned up code
 Update on 2025-05-01: Optimized file creation
 Update on 2025-05-10: Documentation update
+Update on 2025-05-16: Updated language quotas
