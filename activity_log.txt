@@ -60,3 +60,4 @@ Update on 2025-07-04: Added new unit tests
 Update on 2025-07-12: Optimized file creation
 Update on 2025-07-21: Optimized file creation
 Update on 2025-07-28: Enhanced dashboard UI
+Update on 2025-08-07: Updated dependencies
