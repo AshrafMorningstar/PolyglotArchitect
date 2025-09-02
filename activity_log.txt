@@ -63,3 +63,4 @@ Update on 2025-07-28: Enhanced dashboard UI
 Update on 2025-08-07: Updated dependencies
 Update on 2025-08-20: Fixed typos in README
 Update on 2025-08-26: Enhanced dashboard UI
+Update on 2025-09-03: Added new unit tests
