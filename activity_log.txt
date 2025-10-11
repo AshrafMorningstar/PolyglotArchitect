@@ -67,3 +67,4 @@ Update on 2025-09-03: Added new unit tests
 Update on 2025-09-13: Documentation update
 Update on 2025-09-21: Documentation update
 Update on 2025-10-02: Refactored generator logic
+Update on 2025-10-12: Enhanced dashboard UI
