@@ -75,3 +75,4 @@ Update on 2025-11-17: Cleaned up code
 Update on 2025-11-26: Documentation update
 Update on 2025-12-09: Added new unit tests
 Update on 2025-12-16: Added support for Rust
+Update on 2025-12-25: Bug fix in validator
